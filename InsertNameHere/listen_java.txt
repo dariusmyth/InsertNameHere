@@ -1,0 +1,7 @@
+Test3 ''
+- Hello World '' [  ] :: PASS
+- Hello World2 '' [  ] :: PASS
+- Continue '' [  ] :: FAIL: ContinueOnErrorCustom
+- Stop '' [  ] :: FAIL: StopOnErrorCustom
+FAIL
+
